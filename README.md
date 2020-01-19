@@ -1,6 +1,11 @@
 # 16x2-KY40-Interface-AVR-MEGA
 Saving this so I can probably break it down into a class. 
 ========================================================
+THIS IS AN OLDER VERSION OF THE "fetBOX" and I will leave this for posterity" [EDIT]
+
+The control box 
+![image of control box in operation](https://github.com/kbickham/16x2-KY40-Interface-AVR-MEGA/blob/master/IMG_20191125_205517.jpg)
+
 2019 All materials Engineered and written by Kristoper
 Bickham
 
@@ -22,6 +27,10 @@ drop back to the previous.
 Feel free to take parts of this, but put my name in there if you do.
 -----------------------------------------------------
 =============================================================
+
+![3D printed parts](https://github.com/kbickham/16x2-KY40-Interface-AVR-MEGA/blob/master/IMG_20191023_161645.jpg)
+
+
 The images in here are of the system, so you can see what it looks like
 I'll update the .stl's soon, it's pretty simple. One this is done, 
 you should be able to print and assemble the arm for under 40 bucks. I'm 
